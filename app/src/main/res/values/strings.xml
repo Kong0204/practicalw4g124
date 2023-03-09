@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practicalw4g124</string>
+    <string name="name">Andrina</string>
+    <string name="bio">insert my bio text here. i am actually scrollable. but i\'m too short.</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
